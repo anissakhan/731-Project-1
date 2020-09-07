@@ -1,1 +1,1 @@
-testCode
+This project utilizes Jupiter notebook and python libraries to recreate the workflow. Pandas and Numpy are required. 
