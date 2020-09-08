@@ -1,1 +1,1 @@
-This project utilizes Jupiter notebook and python libraries to recreate the workflow. Pandas and Numpy are required. 
+This project utilizes Jupiter notebook and python libraries to recreate the workflow. Pandas, Numpy, and matplotlib.pyplot are required. 
