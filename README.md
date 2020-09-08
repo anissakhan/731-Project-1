@@ -2,7 +2,7 @@
 
 ### Scope
 
-To upload and merge Pesticide use and Cancer datasets to become familiar with Pandas and Jupyter Notebook. Run preliminary summary statistics and data visualizations. These datasets could potentially be used to determine a relationship between pesticide use and cancer incidence.
+The purpose of this project is to upload and merge Pesticide use and Cancer datasets and to become familiar with Pandas and Jupyter Notebook. I run preliminary summary statistics and data visualizations. These datasets could potentially be used to determine a relationship between pesticide use and cancer incidence.
 
 Please see the Jupyter Notebook for more details.
 
